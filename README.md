@@ -7,7 +7,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://bit.ly/3gwsct3)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/itsyogieu/ybrename#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/Stark7777mz/ybrename#deploy-to-heroku-)
 
 [Bot Features 🔥](https://github.com/itsyogieu/ybrename#bot-features- )
 
@@ -21,7 +21,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 
 [TODO 🤧](https://github.com/itsyogieu/ybrename#todo-)
 
-[Thanks And Credits 🎉](https://github.com/itsyogieu/ybrename#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com//ybrename#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
